@@ -2,7 +2,7 @@
 
 **About Me**
 
-- 🌱 I’m currently pursuing graduation in computer science as UI/UX Designer & Frontend Developer
+- 🌱 I’m currently pursuing graduation in computer science as Full Stack Developer
 
 - 💬 Ask me about [here](https://github.com/JatinThakur2/JatinThakur2/issues)
 
