@@ -2,7 +2,7 @@
 
 **About Me**
 
-- 🌱 I’m a UI&UX & FrontEnd Developer
+- 🌱 I’m a UI/UX & FrontEnd Developer
 - 🎓 I have done my bachelor's in Computer Science Engineering with specialisation in software development.
 - ✍️ In my free time, I like create unique design and like to play games.
 - ✉️ You can me email at jatinthakur3333@gmail.com! I'll try to respond as soon as I can.
