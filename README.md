@@ -4,7 +4,7 @@
 
 - 🌱 I’m a UI/UX & FrontEnd Developer
 - 🎓 I have done my bachelor's in Computer Science Engineering with specialisation in software development.
-- ✍️ In my free time, I like create unique design and like to play games.
+- ✍️ In my free time, I like create unique design and like to play games and Music.
 - ✉️ You can me email at jatinthakur3333@gmail.com! I'll try to respond as soon as I can.
 - 💬 Ask me about [here](https://github.com/JatinThakur2/JatinThakur2/issues)
 
