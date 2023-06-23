@@ -28,4 +28,5 @@
 <p align="center">
 <a href="https://jatinthakur.netlify.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.jatinthakur.netlify.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:jatinthakur3333@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jatinthakur3333@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  
 </p>
