@@ -1,5 +1,4 @@
 <p align="center"><a href="https://JatinThakur2.github.io"><img width="20%" src="https://logos.textgiraffe.com/logos/logo-name/Jatin-designstyle-boots-m.png" /></a></p>
-
 **About Me**
 
 - 🌱 I’m a UI/UX & FrontEnd Developer.
