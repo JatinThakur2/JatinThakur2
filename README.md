@@ -1,12 +1,9 @@
-<p align="center"><a href="https://JatinThakur2.github.io"><img width="20%" src="https://logos.textgiraffe.com/logos/logo-name/Jatin-designstyle-boots-m.png" /></a></p>
+
 <h1 align="center">Hi 👋, I'm Jatin Thakur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinthakur2&label=Profile%20views&color=0e75b6&style=flat" alt="jatinthakur2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinthakur2" alt="jatinthakur2" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jatin_t_" target="blank"><img src="https://img.shields.io/twitter/follow/jatin_t_?logo=twitter&style=for-the-badge" alt="jatin_t_" /></a> </p>
 
 - 🔭 I’m currently working on **React Animation**
 
@@ -41,8 +38,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jatinthakur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jatinthakur" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinthakur2&show_icons=true&locale=en&layout=compact" alt="jatinthakur2" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=jatinthakur2&show_icons=true&locale=en" alt="jatinthakur2" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinthakur2&" alt="jatinthakur2" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinthakur2&show_icons=true&locale=en" alt="jatinthakur2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinthakur2&" alt="jatinthakur2" /></p>
