@@ -40,7 +40,7 @@
 </br>
 </br>
 </br>
- <a href="https://github.com/JatinThakur2/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JatinThakur2&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jatin's github stats" /></a> <a href="https://github.com/JatinThakur2/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinthakur2&" alt="jatinthakur2"/></a> 
+ <a href="https://github.com/JatinThakur2/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JatinThakur2&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jatin's github stats" height="300" width="400" /></a> <a href="https://github.com/JatinThakur2/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinthakur2&" alt="jatinthakur2" height="300" width="410" /></a> 
 
 
 
