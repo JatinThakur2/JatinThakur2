@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jatinthakur2&label=Profile%20views&color=0e75b6&style=flat" alt="jatinthakur2" /> </p>
 
 
-- 🔭 I’m currently working on **Reactjs**
+- 🔭 I’m currently working on **Full Stack Web development and designing**
 - 🌱 I like to explore new technologies and develop software solutions and quick hacks.
 - 👨‍💻 All of my projects are available at <img alt="Static Badge" src="https://img.shields.io/badge/%20Github-JatinThakur%20-logo?style=flate&logo=github&color=blue&link=https%3A%2F%2Fgithub.com%2FJatinThakur2">
 - 💬 Ask me about **Full Stack Development**
