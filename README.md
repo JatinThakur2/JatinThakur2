@@ -33,9 +33,12 @@ I'm a passionate **Full Stack Developer and Designer** who enjoys building scala
 
 ## ⚙️ GitHub Analytics
 
+
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JatinThakur2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JatinThakur2&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/JatinThakur2">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JatinThakur2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JatinThakur2&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ## 🤝 Connect with Me
